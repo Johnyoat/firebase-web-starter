@@ -1,3 +1,5 @@
 # firebase-web-starter
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/firebase-web-starter)
+Firebase Web Starter Project
+
+Demo link https://dummy-project-two.firebaseapp.com/
