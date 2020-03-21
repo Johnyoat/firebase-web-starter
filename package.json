@@ -1,6 +1,6 @@
 {
-  "name": "js-5pf7ig",
-  "version": "0.0.0",
+  "name": "firebase-web-starter",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@firebase/util": "^0.2.40",
